@@ -15,4 +15,4 @@
 ➡️ Spending Tracker (Java + JDBC)
 
 📈 GitHub Stats (optional)
-📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muskaansingh03/) | muskan3.singh@gmail.com
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muskaansingh03/) | [Email](muskan3.singh@gmail.com)
