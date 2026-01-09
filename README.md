@@ -1,16 +1,18 @@
-## Hi there 👋
+👋 Hi, I’m Muskan Singh
 
-<!--
-**Muskan6435/Muskan6435** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year B.Tech CSE student
+💻 Backend Developer | Java | Spring Boot | SQL
+🚀 Interested in AI-powered applications
 
-Here are some ideas to get you started:
+🛠 Tech Stack
+📌 Java, Spring Boot, MySQL, REST APIs
+📌 HTML, CSS, JavaScript
+📌 Git, GitHub, Postman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📂 Featured Projects
+➡️ DocTutor – AI-based PPT/PDF to Video Generator
+➡️ Book Management System (Spring Boot)
+➡️ Spending Tracker (Java + JDBC)
+
+📈 GitHub Stats (optional)
+📫 Reach me: [LinkedIn](https://www.linkedin.com/in/muskaansingh03/) | muskan3.singh@gmail.com
