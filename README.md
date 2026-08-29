@@ -1,6 +1,5 @@
 👋 Hi, I’m Muskan Singh
 
-🎓 Final-year B.Tech CSE student
 💻 Backend Developer | Java | Spring Boot | SQL
 🚀 Interested in AI-powered applications
 
